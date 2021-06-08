@@ -1,0 +1,57 @@
+Request method:	GET
+Request URI:	https://reqres.in/api/users?page=2
+Proxy:			<none>
+Request params:	page=2
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+===========================================================
+Test Case Executed Sucesfully,Test Name is:	pageDetails
+===========================================================
+===========================================================
+Test Case Execution Started,Test Name is:	pageDs
+===========================================================
+Request method:	GET
+Request URI:	https://reqres.in/api/users?page=2
+Proxy:			<none>
+Request params:	page=2
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+===========================================================
+Test Case Execution Got Failed,Test Name is:	pageDs
+===========================================================
+===========================================================
+Test Case Execution Started,Test Name is:	pagelllllll
+===========================================================
+Request method:	GET
+Request URI:	https://reqres.in/api/users?page=2
+Proxy:			<none>
+Request params:	page=2
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+===========================================================
+Test Case Executed Sucesfully,Test Name is:	pagelllllll
+===========================================================
+
+===============================================
+Suite
+Total tests run: 3, Failures: 1, Skips: 0
+===============================================
+

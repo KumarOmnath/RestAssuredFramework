@@ -1,0 +1,84 @@
+2020-10-23 02:04:22,501 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:04:22,501 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:04:25,500 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:04:25,500 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:04:25,502 - com.smallcaseAPI.abc -INFO - ==========Assertion pass for statuscode=======
+2020-10-23 02:04:25,502 [main] INFO com.smallcaseAPI.abc - ==========Assertion pass for statuscode=======
+2020-10-23 02:04:25,514 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:04:25,514 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:04:25,946 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:04:25,946 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:04:25,949 - com.smallcaseAPI.abc -INFO - ==========Assertion pass for statuscode=======
+2020-10-23 02:04:25,949 [main] INFO com.smallcaseAPI.abc - ==========Assertion pass for statuscode=======
+2020-10-23 02:04:25,958 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:04:25,958 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:04:26,420 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:04:26,420 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:04:26,420 - com.smallcaseAPI.abc -INFO - ==========Assertion pass for statuscode=======
+2020-10-23 02:04:26,420 [main] INFO com.smallcaseAPI.abc - ==========Assertion pass for statuscode=======
+2020-10-23 02:09:04,370 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:09:04,370 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:09:08,546 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:09:08,546 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:09:08,556 - com.smallcaseAPI.abc -INFO - ==========Assertion pass for statuscode=======
+2020-10-23 02:09:08,556 [main] INFO com.smallcaseAPI.abc - ==========Assertion pass for statuscode=======
+2020-10-23 02:09:08,565 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:09:08,565 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:09:10,381 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:09:10,381 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:09:10,382 - com.smallcaseAPI.abc -INFO - ==========Assertion pass for statuscode=======
+2020-10-23 02:09:10,382 [main] INFO com.smallcaseAPI.abc - ==========Assertion pass for statuscode=======
+2020-10-23 02:09:10,385 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:09:10,385 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:09:11,805 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:09:11,805 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:09:11,806 - com.smallcaseAPI.abc -INFO - ==========Assertion pass for statuscode=======
+2020-10-23 02:09:11,806 [main] INFO com.smallcaseAPI.abc - ==========Assertion pass for statuscode=======
+2020-10-23 02:11:43,714 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:11:43,714 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:11:46,817 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:11:46,817 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:11:46,826 - com.smallcaseAPI.abc -INFO - ==========Assertion pass for statuscode=======
+2020-10-23 02:11:46,826 [main] INFO com.smallcaseAPI.abc - ==========Assertion pass for statuscode=======
+2020-10-23 02:11:46,837 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:11:46,837 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:11:47,251 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:11:47,251 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:11:47,255 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:11:47,255 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:11:47,784 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:11:47,784 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:11:47,786 - com.smallcaseAPI.abc -INFO - ==========Assertion pass for statuscode=======
+2020-10-23 02:11:47,786 [main] INFO com.smallcaseAPI.abc - ==========Assertion pass for statuscode=======
+2020-10-23 02:17:25,922 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:17:25,922 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:17:28,975 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:17:28,975 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:17:28,976 - com.smallcaseAPI.abc -INFO - ==========Assertion pass for statuscode=======
+2020-10-23 02:17:28,976 [main] INFO com.smallcaseAPI.abc - ==========Assertion pass for statuscode=======
+2020-10-23 02:17:28,986 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:17:28,986 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:17:29,414 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:17:29,414 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:17:29,443 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:17:29,443 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:17:29,912 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:17:29,912 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:17:29,912 - com.smallcaseAPI.abc -INFO - ==========Assertion pass for statuscode=======
+2020-10-23 02:17:29,912 [main] INFO com.smallcaseAPI.abc - ==========Assertion pass for statuscode=======
+2020-10-23 02:23:41,881 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:23:41,881 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:23:44,636 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:23:44,636 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:23:44,639 - com.smallcaseAPI.abc -INFO - ==========Assertion pass for statuscode=======
+2020-10-23 02:23:44,639 [main] INFO com.smallcaseAPI.abc - ==========Assertion pass for statuscode=======
+2020-10-23 02:23:44,656 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:23:44,656 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:23:45,073 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:23:45,073 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:23:45,081 - com.smallcaseAPI.abc -INFO - ==========get all page details=======
+2020-10-23 02:23:45,081 [main] INFO com.smallcaseAPI.abc - ==========get all page details=======
+2020-10-23 02:23:45,478 - com.smallcaseAPI.abc -INFO - ==========Assert for statuscode=======
+2020-10-23 02:23:45,478 [main] INFO com.smallcaseAPI.abc - ==========Assert for statuscode=======
+2020-10-23 02:23:45,479 - com.smallcaseAPI.abc -INFO - ==========Assertion pass for statuscode=======
+2020-10-23 02:23:45,479 [main] INFO com.smallcaseAPI.abc - ==========Assertion pass for statuscode=======
